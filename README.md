@@ -1,4 +1,4 @@
-# install ros in ubuntu
+# install ubuntu & ros noetic in ubuntu
 
 
 ## Installation 
